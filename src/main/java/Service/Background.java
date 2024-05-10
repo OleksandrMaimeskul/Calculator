@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 public class Background implements ActionListener {
-    private TextField textField;
+    TextField textField;
     private final ExpressionEvaluator evaluator = new ExpressionEvaluator();
 
     public void calculator() {
